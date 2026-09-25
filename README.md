@@ -1,3 +1,3 @@
-# Chapters gateway
+# Birthday journal
 
-Static encrypted collection. The complete access link is required to open it. Source content and access keys are not stored in this repository.
+Direct-access static website. No key or QR gate is required. Anyone with the URL can view the journal. Search indexing is discouraged, not access-controlled.
